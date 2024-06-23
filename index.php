@@ -7,7 +7,7 @@
 <!-- Begin page content -->
       <div class="container">
         <div class="page-header">
-          <h1>Accueil</h1>
+          <h1>Accueil of The Loser </h1>
         </div>
       </div>
     
